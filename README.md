@@ -1,1 +1,1 @@
-# computer-vision-projects
+Sample Computer Vision projects
