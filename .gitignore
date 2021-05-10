@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Cats&Dogs/PetImages/*
+ImageSegmentation-UNet/annotations/*
+ImageSegmentation-UNet/images/*
+ImageSegmentation-UNet/oxford_segmentation.h5
+
